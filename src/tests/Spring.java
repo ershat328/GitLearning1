@@ -6,6 +6,5 @@ public class Spring {
         System.out.println ("bye" );
 
 
-        git remote set-url origin https://github.com/ershat328/GitLearning1.git
     }
 }
